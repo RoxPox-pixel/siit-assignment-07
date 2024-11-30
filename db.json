@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "test@teeeest.com",
+      "password": "$2a$10$8KupRvXeKd/v/rj9GLLIP.s0AxE8.w6WL68.LboB8atE69xHnwiOW",
+      "firstName": "roxana",
+      "lastName": "banana",
+      "id": 1
+    }
+  ]
+}
